@@ -2,5 +2,5 @@
   "default": "7.tcp.eu.ngrok.io:17521",
   "playit": "svo.gugas",
   "network": "1.1.114.1:00122",
-  "peculiar": "kill ysfelf"
+  "peculiar": "localhost:8000"
 }
