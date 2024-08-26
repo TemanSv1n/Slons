@@ -1,6 +1,6 @@
 {
   "default": "7.tcp.eu.ngrok.io:17521",
   "playit": "svo.gugas",
-  "network": "1.1.114.1:00122",
+  "network": "172.28.31.213",
   "peculiar": "localhost:8000"
 }
