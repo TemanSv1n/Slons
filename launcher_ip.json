@@ -1,5 +1,5 @@
 {
-  "default": "abas:9002",
+  "default": "2.tcp.eu.ngrok.io:18278",
   "playit": "svo.gugas",
   "network": "172.28.31.213:25565",
   "peculiar": "localhost:8000"
