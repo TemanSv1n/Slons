@@ -1,5 +1,5 @@
 {
-  "default": "2.tcp.eu.ngrok.io:18278",
+  "default": "5.tcp.eu.ngrok.io:14189",
   "playit": "svo.gugas.kal",
   "network": "172.28.31.213:25565",
   "peculiar": "localhost:8000"
