@@ -1,5 +1,5 @@
 {
-  "default": "5.tcp.eu.ngrok.io:14189",
+  "default": "172.28.31.213:8000",
   "playit": "svo.sgugas.kaldg",
   "network": "172.28.31.213:8000",
   "peculiar": "localhost:8000"
